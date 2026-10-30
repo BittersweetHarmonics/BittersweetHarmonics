@@ -14,19 +14,6 @@ JUCE / C++ &middot; macOS &middot; Orlando, FL
 
 </div>
 
-## &#9672; THIS IS WHAT THE SUN SOUNDS LIKE
-
-<div align="center">
-
-<a href="https://bittersweet-harmonics.itch.io/lab"><img src="https://img.itch.zone/aW1nLzMxMTE2ODk3LmdpZg==/original/50lCpm.gif" width="100%" alt="This is what the Sun sounds like"/></a>
-
-**NASA's recording of the solar wind, pulled apart into its harmonics.**
-**Every sound is a crowd. This is the shape of the Sun's.**
-
-[&#9654; Hear it in THE LAB](https://bittersweet-harmonics.itch.io/lab)
-
-</div>
-
 ## &#9672; THE GRID
 
 | CEILING SMASHER | BEAT-N-PATH |
